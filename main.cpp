@@ -17,7 +17,6 @@ void fillArray();
 void putArray();
 void main()
 {
-
     setlocale(LC_ALL, "ru");
     float x, y;
     int answer = 0;
@@ -121,6 +120,7 @@ void symbolOfGraphic(int x, int y, char symbol)
 }
 void fillArray()
 {
+    //числа на координатной плоскости не получилось корректно вставить, поэтому их нет(
     int x, y;
     for (y = 0; y < HEIGHT; y++) {
         if (y == 0) {
@@ -144,7 +144,7 @@ void putArray() {
     for (int i = 0; i < HEIGHT; i++)
     {
         for (int j = 0; j < WIDTH; j++) {
-            cout << coordPlane[i][j];
+            cout << coordPlane[i][j] ;
         }
         cout << endl;
     }

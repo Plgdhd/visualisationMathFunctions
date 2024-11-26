@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\graphForBeloded\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6979B5F7-467B-4519-A507-54B5D5CDCF89}|graphForBeloded.vcxproj|H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\graphForBeloded\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6979B5F7-467B-4519-A507-54B5D5CDCF89}|graphForBeloded.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6979B5F7-467B-4519-A507-54B5D5CDCF89}|graphForBeloded.vcxproj|H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\graphForBeloded\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6979B5F7-467B-4519-A507-54B5D5CDCF89}|graphForBeloded.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\graphForBeloded\\Source.cpp",
-              "RelativeDocumentMoniker": "Source.cpp",
-              "ToolTip": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\graphForBeloded\\Source.cpp*",
-              "RelativeToolTip": "Source.cpp*",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-26T20:15:30.833Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\graphForBeloded\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\graphForBeloded\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T20:15:30.833Z",
+              "EditorCaption": ""
             }
           ]
         }
